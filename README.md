@@ -1,6 +1,6 @@
 # C_project
 
-this project reads an image from file, from the internet using a URL or you can email and image to it.
+In this project, you can read an image from file, from the internet using a URL or you can email and image to it.
 
 after reading the image, there are some filters you can apply on it and save the edited photo.
 
